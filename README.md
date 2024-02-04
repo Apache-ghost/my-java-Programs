@@ -74,4 +74,8 @@ Let Java traverse the digits of numbers. Sum them up and create numerical melodi
 ## 📚 Word Count
 Embark on a literary adventure with Java. Count the words and let language paint a vibrant canvas of stories.
 
+## 📚 Classes and Object Learning Exercises
+Immerse yourself in the fundamental concepts of Java with captivating exercises on classes and objects. Lay the foundation for your coding journey with hands-on learning.
+
+
 May your Java journey be filled with wonder and joy! Happy coding! 🚀☕✨
