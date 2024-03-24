@@ -28,3 +28,17 @@ public class ReverseString {
     }
     
 }
+
+// Or you can use the below is more shorter
+//     import java.util.Scanner;
+
+// public class ReverseString {
+//     public static void main(String[] args) {
+//         Scanner scan = new Scanner(System.in);
+//         System.out.println("Enter a string: ");
+//         String string = scan.nextLine();
+//         String reversedStr = new StringBuilder(string).reverse().toString();
+//         System.out.println("Reversed string: " + reversedStr);
+//     }
+// }
+
