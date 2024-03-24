@@ -35,3 +35,21 @@ public class CountWord1 {
     }
     
 }
+
+// try this new one:
+// import java.util.Scanner;
+
+// public class CountWord {
+//     public static void main(String[] args) {
+//         Scanner scanner = new Scanner(System.in);
+
+//         System.out.println("Enter the string to be counted: ");
+//         String sentence = scanner.nextLine().trim();
+
+//         String[] words = sentence.split("\\s+");
+//         int total = words.length;
+
+//         System.out.println("The given string is: " + sentence);
+//         System.out.println("The number of words in the given string is: " + total);
+//     }
+// }
