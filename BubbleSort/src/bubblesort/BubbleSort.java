@@ -34,3 +34,31 @@ public class BubbleSort {
     }
     
 }
+
+// package bubblesort;
+
+// import java.util.Arrays;
+
+// public class BubbleSort {
+
+//     public static void main(String[] args) {
+//         int[] array = { 5, 2, 8, 12, 1 };
+//         System.out.println("Original Array: " + Arrays.toString(array));
+
+//         boolean sorted = false;
+//         while (!sorted) {
+//             sorted = true;
+//             for (int i = 0; i < array.length - 1; i++) {
+//                 if (array[i] > array[i + 1]) {
+//                     int temp = array[i];
+//                     array[i] = array[i + 1];
+//                     array[i + 1] = temp;
+//                     sorted = false;
+//                 }
+//             }
+//         }
+
+//         System.out.println("Sorted Array: " + Arrays.toString(array));
+//     }
+// }
+
