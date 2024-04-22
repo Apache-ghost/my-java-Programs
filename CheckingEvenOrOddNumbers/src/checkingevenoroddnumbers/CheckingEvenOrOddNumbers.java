@@ -28,3 +28,16 @@ public class CheckingEvenOrOddNumbers {
     }
     
 }
+
+// import java.util.Scanner;
+
+// public class CheckingEvenOrOddNumbers {
+//     public static void main(String[] args) {
+//         Scanner scan = new Scanner(System.in);
+//         System.out.print("Enter a number: ");
+//         int number = scan.nextInt();
+
+//         String result = (number % 2 == 0) ? "even" : "odd";
+//         System.out.println(number + " is " + result + ".");
+//     }
+// }
