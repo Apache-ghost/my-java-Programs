@@ -37,3 +37,23 @@ public class PrimeNumberChecker {
     }
     
 }
+
+// import java.util.Scanner;
+
+// public class PrimeNumberChecker {
+//     public static void main(String[] args) {
+//         Scanner scan = new Scanner(System.in);
+//         System.out.println("Enter a number: ");
+//         int number = scan.nextInt();
+             
+//         boolean isPrime = number > 1;
+//         for (int i = 2; i <= Math.sqrt(number); i++) {
+//             if (number % i == 0) {
+//                 isPrime = false;
+//                 break;
+//             }
+//         }
+        
+//         System.out.println(number + (isPrime ? " is a prime number." : " is not a prime number."));
+//     }
+// }
