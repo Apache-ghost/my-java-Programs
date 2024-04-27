@@ -51,4 +51,37 @@ public class Summing_two_array {
      
     }
     
-}
+// }
+// import java.util.Scanner;
+
+// public class SummingTwoArray {
+//     public static void main(String[] args) {
+//         Scanner scan = new Scanner(System.in);
+        
+//         System.out.print("Enter the size of the arrays: ");
+//         int size = scan.nextInt();
+        
+//         int[] array1 = new int[size];
+//         int[] array2 = new int[size];
+//         int[] result = new int[size];
+        
+//         System.out.println("Enter elements for the first array:");
+//         for (int i = 0; i < size; i++) {
+//             array1[i] = scan.nextInt();
+//         }
+        
+//         System.out.println("Enter elements for the second array:");
+//         for (int i = 0; i < size; i++) {
+//             array2[i] = scan.nextInt();
+//         }
+        
+//         for (int i = 0; i < size; i++) {
+//             result[i] = array1[i] + array2[i];
+//         }
+        
+//         System.out.println("Sum of the two arrays:");
+//         for (int i = 0; i < size; i++) {
+//             System.out.println(result[i]);
+//         }
+//     }
+// }
