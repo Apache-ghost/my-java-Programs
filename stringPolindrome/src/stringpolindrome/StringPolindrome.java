@@ -30,3 +30,15 @@ public class StringPolindrome {
     }
     
 }
+
+// import java.util.Scanner;
+
+// public class StringPalindrome {
+//     public static void main(String[] args) {
+//         Scanner scan = new Scanner(System.in);
+//         System.out.println("Enter a string: ");
+//         String str = scan.nextLine();
+//         boolean isPalindrome = str.equals(new StringBuilder(str).reverse().toString());
+//         System.out.println(isPalindrome ? "Palindrome" : "Not a palindrome");
+//     }
+// }
